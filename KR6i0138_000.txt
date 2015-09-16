@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 阿闍世王問五逆經
+#+DATE: 2015-08-30 20:10:50.561502
+#+PROPERTY: JUAN 0
