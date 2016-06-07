@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:50.349492
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:41
 #+TITLE: 阿闍世王問五逆經
 #+PROPERTY: CBETA_ID T14n0508
 #+PROPERTY: ID KR6i0138
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 508
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0138_T_001-0775c> 
 #+PROPERTY: JUAN 1
 ¶
-No.508¶
-
- 阿闍世王問五逆經¶
+No. 508¶
+阿闍世王問五逆經¶
 ¶
 西晉沙門法炬譯¶
 
@@ -61,9 +60,9 @@ No.508¶
 「　「愚者知是處，
 　言殃謂無報，¶
 　我今觀當來，
-　受報有定處。」
+　受報有定處。」」
 #+END_VERSE
-」¶
+¶
 
 是時，世尊告諸比丘：「彼摩竭國阿闍世王，雖¶
 殺父王，亦當不久來至我所，當有等信於¶
@@ -143,9 +142,9 @@ No.508¶
 「　「智慧世為上，
 　當至安隱處，¶
 　諸能知等業，
-　斷彼生有死。
+　斷彼生有死。」
 #+END_VERSE
-」¶
+¶
 
 「是謂比丘有是差別。」
 
